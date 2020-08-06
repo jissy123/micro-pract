@@ -9,3 +9,6 @@ Java is simple
 a.streams
 b.lamda
 c.functional interfaces
+
+changes has done
+
