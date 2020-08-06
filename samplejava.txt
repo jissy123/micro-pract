@@ -6,4 +6,9 @@ Java is simple
 
 5.Java8
 
+a.streams
+b.lamda
+c.functional interfaces
+
 changes has done
+
