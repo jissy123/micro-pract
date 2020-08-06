@@ -6,12 +6,13 @@ Java is simple
 
 5.Java8
 
-a.streams
-b.lamda
+
+a.lamda
+b.streams
 c.functional interfaces
+
 
 changes has done
 
 more changes are there
-
 
